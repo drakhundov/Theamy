@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(40, 42, 53);
+}
+
+#toggle {
+    position: absolute;
+    width: 25%;
+    height: 20%;
+    top: 35%;
+    left: 37.5%;
+    background-color: rgb(41, 40, 40);
+}
+
+#selection {
+    box-sizing: border-box;
+    margin-right: auto;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(209, 125, 174);
+    border: solid 1px rgb(208, 60, 60);
+}
